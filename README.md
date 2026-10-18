@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic Insights — Survival Prediction & Passenger Analytics
 
 A modern, SaaS-inspired machine learning exploratory analytics and survival prediction dashboard built as a college-level academic mini-project.
@@ -137,3 +138,7 @@ When switching datasets, all cards, charts, insights, and table rows update reac
 - **Simulated Inference:** The passenger prediction simulator utilizes a transparent deterministic logistic heuristic based on documented historical weights, not a live PyTorch/Scikit-learn model server.
 - **Unlabelled Test Partition:** In accordance with the Kaggle competition specification, the 418 test passenger records omit true survival outcomes to demonstrate unlabelled evaluation workflows.
 - **Metric Invariance:** The Model Performance benchmark metrics reflect standardized offline cross-validation results and do not dynamically alter when filtering passenger demographic slices.
+=======
+# titanic-insights
+Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger.
+>>>>>>> 16531f4a7dc3a41b076fd4032e562f2ef85c9908
