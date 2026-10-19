@@ -3,7 +3,6 @@
 
 A modern, SaaS-inspired machine learning exploratory analytics and survival prediction dashboard built as a college-level academic mini-project.
 
-![Titanic Insights Dashboard](https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1200&q=80)
 
 ---
 
